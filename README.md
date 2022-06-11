@@ -4,7 +4,7 @@
 
 ## 方向一：数据收集
 
-### A. 数据搜索
+### A. 文献/数据检索
 1. 搜索引擎
 2. 电子文库/数据集
 
@@ -65,3 +65,10 @@
 ### C. 研究成果可视化
 1. 绘图工具
 2. 多媒体制作工具
+
+例子：
+- [Wordtune](https://www.wordtune.com/)
+- [QuillBot AI Paraphrasing Tool](https://quillbot.com/)
+- [Paraphraser](https://www.paraphraser.io/)
+- [Prepostseo Paraphrasing Tool](https://www.prepostseo.com/paraphrasing-tool)
+- [Paraphrase Tool](https://paraphrasetool.com/): Paraphrasing with multilingual support, including Chinese
