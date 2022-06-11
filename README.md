@@ -1,9 +1,9 @@
 # 翻译研究技术
 
-Sai-cheong SIU 
+Sai-cheong SIU [scsiu@hsu.edu.hk](mailto:scsiu@hsu.edu.hk)
 (Version: 11 June 2022)
 
-<img width="806" alt="image" src="https://user-images.githubusercontent.com/107286323/173166389-a152a0a1-ee65-4979-8bed-f3bf8196064c.png">
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/107286323/173168179-9b00a0f1-32ca-49fc-9c18-8a5e61002dcb.png">
 
 ## 方向一：数据收集
 
@@ -22,6 +22,12 @@ Sai-cheong SIU
 4. 表情检测
 
 ### 例子
+- [电子版香港法例](https://www.elegislation.gov.hk/)
+- [谷歌学术](https://scholar.google.com.hk/?hl=zh-CN)
+- [万方数据](https://c.wanfangdata.com.cn/periodical)
+- [香港特区政府新闻公报](https://www.info.gov.hk/gia/ISD_public_Calendar_tc.html)
+- [香港立法会议事录资料库](https://app.legco.gov.hk/hansarddb/sc/search.aspx)
+- [知网](https://www.cnki.net/)
 
 ## 方向二：数据预处理
 
@@ -39,6 +45,13 @@ Sai-cheong SIU
 4. 标注工具
 5. 对齐工具
 
+### 例子
+
+- [HanLP.com](https://www.hanlp.com/index.html)
+- [Transkribus](https://readcoop.eu/transkribus) 
+- [Tranxmall](https://www.tmxmall.com/)
+- [中文古籍 OCR](https://ocr.gj.cool/)
+
 ## 方向三：发掘和分析翻译问题
 
 ### A.	研究资讯检索
@@ -54,6 +67,16 @@ Sai-cheong SIU
 ### C. 翻译质量研究
 1. 翻译评分工具
 2. 质量评估工具
+
+### 例子
+- [AntConc](https://www.laurenceanthony.net/software/antconc/)
+- [Handbook of Translation Studies](https://benjamins.com/online/hts/)
+- [Memsource](https://www.memsource.com/)
+- [RStudio](https://www.rstudio.com/)
+- [SketchEngine](https://www.sketchengine.eu/)
+- [Translation Studies Bibliography](https://benjamins.com/online/tsb/)
+- [Voyant Tools](https://voyant-tools.org/)
+- [Wordsmith](https://wordsmith.org/)
 
 ## 方向四：研究成果整合与分享
 
@@ -72,8 +95,13 @@ Sai-cheong SIU
 2. 多媒体制作工具
 
 ### 例子
-- [Wordtune](https://www.wordtune.com/)
-- [QuillBot AI Paraphrasing Tool](https://quillbot.com/)
+- [Canva](https://www.canva.com/)
+- [diagrams.net](https://www.diagrams.net/)
+- [Sogou English Writing Assistant](https://fanyi.sogou.com/writing)
 - [Paraphraser](https://www.paraphraser.io/)
-- [Prepostseo Paraphrasing Tool](https://www.prepostseo.com/paraphrasing-tool)
 - [Paraphrase Tool](https://paraphrasetool.com/)
+- [QuillBot AI Paraphrasing Tool](https://quillbot.com/)
+- [Ref-n-write](https://www.ref-n-write.com/)
+- [Wordtune](https://www.wordtune.com/)
+- [Youdao Writing](https://write.youdao.com/)
+   
