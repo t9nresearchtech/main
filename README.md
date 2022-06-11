@@ -1,5 +1,8 @@
 # 翻译研究技术
 
+Sai-cheong SIU 
+(Version: 11 June 2022)
+
 <img width="806" alt="image" src="https://user-images.githubusercontent.com/107286323/173166389-a152a0a1-ee65-4979-8bed-f3bf8196064c.png">
 
 ## 方向一：数据收集
@@ -17,6 +20,8 @@
 2. 鼠标轨迹
 3. 键盘数据
 4. 表情检测
+
+### 例子
 
 ## 方向二：数据预处理
 
@@ -66,9 +71,9 @@
 1. 绘图工具
 2. 多媒体制作工具
 
-例子：
+### 例子
 - [Wordtune](https://www.wordtune.com/)
 - [QuillBot AI Paraphrasing Tool](https://quillbot.com/)
 - [Paraphraser](https://www.paraphraser.io/)
 - [Prepostseo Paraphrasing Tool](https://www.prepostseo.com/paraphrasing-tool)
-- [Paraphrase Tool](https://paraphrasetool.com/): Paraphrasing with multilingual support, including Chinese
+- [Paraphrase Tool](https://paraphrasetool.com/)
