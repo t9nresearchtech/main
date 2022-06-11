@@ -1,9 +1,11 @@
-# 翻译研究技术
+# 翻译研究技术：应用于翻译研究的电子工具
 
 Sai-cheong SIU [scsiu@hsu.edu.hk](mailto:scsiu@hsu.edu.hk)
 (Version: 11 June 2022)
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/107286323/173168179-9b00a0f1-32ca-49fc-9c18-8a5e61002dcb.png">
+
+投影片[下载](https://github.com/t9nresearchtech/main/翻译研究技术_应用于翻译研究的电子工具.pdf)
 
 ## 方向一：数据收集
 
