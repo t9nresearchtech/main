@@ -103,5 +103,6 @@ Sai-cheong SIU [scsiu@hsu.edu.hk](mailto:scsiu@hsu.edu.hk)
 - [QuillBot AI Paraphrasing Tool](https://quillbot.com/)
 - [Ref-n-write](https://www.ref-n-write.com/)
 - [Wordtune](https://www.wordtune.com/)
+- [Wordvice AI](https://wordvice.ai/)
 - [Youdao Writing](https://write.youdao.com/)
    
