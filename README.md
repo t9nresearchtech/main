@@ -5,7 +5,9 @@ Sai-cheong SIU [scsiu@hsu.edu.hk](mailto:scsiu@hsu.edu.hk)
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/107286323/173168179-9b00a0f1-32ca-49fc-9c18-8a5e61002dcb.png">
 
-投影片[下载](https://github.com/t9nresearchtech/main/翻译研究技术_应用于翻译研究的电子工具.pdf)
+投影片[下载](https://github.com/t9nresearchtech/main/blob/main/%E7%BF%BB%E8%AF%91%E7%A0%94%E7%A9%B6%E6%8A%80%E6%9C%AF_%E5%BA%94%E7%94%A8%E4%BA%8E%E7%BF%BB%E8%AF%91%E7%A0%94%E7%A9%B6%E7%9A%84%E7%94%B5%E5%AD%90%E5%B7%A5%E5%85%B7.pdf)
+
+
 
 ## 方向一：数据收集
 
